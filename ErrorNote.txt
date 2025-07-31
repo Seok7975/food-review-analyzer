@@ -1,0 +1,16 @@
+1. 날짜별로 긁어오기
+
+
+데이터 어떻게 가져오고 가공할 것인지
+
+
+배민, 쿠팡이츠 open API가 없음....
+=> 개인정보 이슈
+
+에러노트
+pull할때 디렉토리 파일에 특수문자가 있으면 pull이 안됨.
+error: invalid path 'crawlers/?google/__init__.py'
+fatal: unable to checkout working tree
+warning: Clone succeeded, but checkout failed.
+You can inspect what was checked out with 'git status'
+and retry with 'git restore --source=HEAD :/'
