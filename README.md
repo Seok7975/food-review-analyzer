@@ -1,2 +1,2 @@
-# food-review-analyzer
+# restaurants-review-analyzer
 식당 리뷰 분석 프로젝트
